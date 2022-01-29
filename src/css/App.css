@@ -1,0 +1,13 @@
+:root{
+    font-size: 20px;
+}
+
+footer{
+    display: block;
+    bottom: 0;
+    background-color: rgb(255, 221, 127);
+    height: 5rem;
+}
+body{
+    /* overflow-x: hidden; */
+}

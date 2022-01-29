@@ -1,0 +1,10 @@
+.headerMovies{
+    background-color: rgb(170, 236, 214);
+    color: beige;
+    display: flex;
+    height: 5rem;
+    justify-content: left;
+}
+.headerMovies h1{
+    margin: 10px;
+}
